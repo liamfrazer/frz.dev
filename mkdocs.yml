@@ -63,7 +63,6 @@ plugins:
   - roamlinks 
   - mermaid2
   - tags
-  - meta
 
 extra_javascript:
   - javascripts/mathjax.js
