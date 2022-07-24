@@ -1,5 +1,10 @@
 # Home
 ## frz.dev - Obsidian Notes Static Site
+---
+### Projects
+#### [SkyScrapers](frz.dev/docs/Projects/SkyScrapers/index)
+
+---
 ### Generated from [obsidian-publish-mkdocs](https://github.com/jobindj/obsidian-publish-mkdocs)
 
 Through the combination of Obsidian > mkdocs > Github > Hostinger, [https://frz.dev](https://frz.dev) is automatically updated every 5 minutes after any change made to my Obsidian vault.
