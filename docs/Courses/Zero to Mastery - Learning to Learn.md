@@ -17,7 +17,6 @@ ___
 
 
 ---
-
 ### The Pillars
 
 
@@ -35,5 +34,5 @@ ___
 
 ---
 ## References
-https://zerotomastery.io/courses/learning-how-to-learn/
-https://zerotomastery.io/courses/learning-how-to-learn/#Curriculum
+[https://zerotomastery.io/courses/learning-how-to-learn/](https://zerotomastery.io/courses/learning-how-to-learn/)
+[https://zerotomastery.io/courses/learning-how-to-learn/#Curriculum](https://zerotomastery.io/courses/learning-how-to-learn/#Curriculum)
