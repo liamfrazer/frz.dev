@@ -1,14 +1,10 @@
-202207241528
-
-Status: #MOC
-
-Tags: #courses
+2022-07-24 16:49
 
 # Zero to Mastery - Learning to Learn
 ## Map of Content
 ---
 ### Introduction
-[[Learning to Learn Test Note]]
+
 
 ---
 ### The Principles
@@ -37,4 +33,5 @@ ___
 ---
 ## References
 [https://zerotomastery.io/courses/learning-how-to-learn/](https://zerotomastery.io/courses/learning-how-to-learn/)
+
 [https://zerotomastery.io/courses/learning-how-to-learn/#Curriculum](https://zerotomastery.io/courses/learning-how-to-learn/#Curriculum)
