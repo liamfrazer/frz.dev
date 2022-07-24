@@ -7,7 +7,8 @@ Through the combination of Obsidian > mkdocs > Github > Hostinger, [https://frz.
 
 * [Obsidian](https://obsidian.md)
 * [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git)
-* [jobindjobsidian-publish-mkdocs](https://github.com/jobindj/obsidian-publish-mkdocs)
+* [jobindj/obsidian-publish-mkdocs](https://github.com/jobindj/obsidian-publish-mkdocs)
+* [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)
 * [Github Actions](https://github.com/features/actions)
 * [Hostinger Git Webhooks](https://support.hostinger.com/en/articles/1583302-how-can-i-deploy-a-git-repository)
 

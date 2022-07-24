@@ -1,4 +1,4 @@
-# Obsidian Notes
+# frz.dev - Software Engineer Second Brain
 
 Publish your public notes with MkDocs
 
