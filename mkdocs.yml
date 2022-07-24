@@ -1,6 +1,14 @@
-site_name: obsidian-mkdocs template
+site_name: frz.dev
+repo_url: https://github.com/liamfrazer/frz.dev
 
 theme:
+    features:
+      - navigation.instant
+      - navigation.tabs
+      - navigation.sections
+      - toc.follow
+      - toc.integrate
+      - navigation.top
     name: 'material'
     palette:
 
@@ -16,7 +24,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: pink
+      primary: indigo
       accent: blue
       toggle:
         icon: material/toggle-switch
