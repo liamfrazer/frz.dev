@@ -11,10 +11,10 @@ theme:
       - navigation.instant
       - navigation.tabs
       - navigation.sections
+      - toc.integrate
       - toc.follow
       - navigation.top
       - navigation.indexes
-      - toc.integrate
     name: 'material'
     palette:
 
