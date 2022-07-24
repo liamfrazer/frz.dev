@@ -1,6 +1,6 @@
 202207241528
 Status: #MOC
-Tags: #course
+Tags: #courses
 
 # Zero to Mastery - Learning to Learn
 ## Map of Content

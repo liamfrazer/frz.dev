@@ -76,8 +76,8 @@ extra:
 nav:
   - Home: index.md
   - Courses:
-    - Courses/index.md
-    - Zero to Mastery - Learning to Learn: Languages/Zero to Mastery - Learning to Learn.md
+    - Navigation/Courses/index.md
+    - Zero to Mastery - Learning to Learn: Navigation/Courses/Zero to Mastery - Learning to Learn.md
   - Languages:
-    - Languages/index.md
-    - JavaScript: Languages/JavaScript.md
+    - Navigation/Languages/index.md
+    - JavaScript: Navigation/Languages/JavaScript.md
