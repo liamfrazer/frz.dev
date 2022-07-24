@@ -1,4 +1,4 @@
-# frz.dev - My Software Engineer Second Brain
+# frz.dev - Home
 ### Generated from [obsidian-publish-mkdocs](https://github.com/jobindj/obsidian-publish-mkdocs)
 
 Through the combination of Obsidian > mkdocs > Github > Hostinger, [https://frz.dev](https://frz.dev) is automatically updated every 5 minutes after any change was made to my Obsidian notes vault.

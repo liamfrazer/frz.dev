@@ -1,11 +1,14 @@
-# frz.dev - Software Engineer Second Brain
+# frz.dev - Main Map of Content
 
-Publish your public notes with MkDocs
 
-## Hello World!
+## Map of Content for Courses
+---
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+* ### [[Zero to Mastery - Learning to Learn]]
+* 
 
-The folders in `/docs` appear as the main sections on the navigation bar.
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+
+---
+## References
+https://zerotomastery.io/courses/learning-how-to-learn/

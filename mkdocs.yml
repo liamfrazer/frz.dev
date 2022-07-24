@@ -71,3 +71,10 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/liamfrazer
       name: liamfrazer on GitHub
+
+nav:
+  - Home: index.md
+  - Courses:
+    - Zero to Mastery - Learning to Learn: Zero to Mastery - Learning to Learn.md
+  - Languages:
+    - JavScript: JavaScript.md
