@@ -3,23 +3,23 @@
 ## Categories
 ---
 ### Courses
-[[Zero to Mastery - Learning to Learn]]
-[[Zero to Mastery - Complete Node.js Developer]]
+* [[Zero to Mastery - Learning to Learn]]
+* [[Zero to Mastery - Complete Node.js Developer]]
 
 
 ---
 ### Frameworks
-[[Node.js]]
+* [[Node.js]]
 
 
 ---
 ### Languages
-[[JavaScript]]
+* [[JavaScript]]
 
 
 ---
 ### Notes
-[[Game Developer]]
+* [[Game Developer]]
 
 
 
