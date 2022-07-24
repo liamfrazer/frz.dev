@@ -4,8 +4,6 @@
 ## Map of Content
 ---
 
-[[Test File in JavaScript]]
-
 
 ---
 ## References
