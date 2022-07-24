@@ -1,8 +1,25 @@
 # Home
 ## frz.dev - Obsidian Notes Static Site
 ---
+### Courses
+#### [[frz.dev/docs/Courses/Complete Node.js Developer/index|Complete Node.js Developer]]
+#### [[frz.dev/docs/Courses/Learning to Learn/index|Learning to Learn]]
+
+---
+### Frameworks
+#### [[frz.dev/docs/Frameworks/Node.js/index|Node.js]]
+
+
+---
+### Languages
+#### [[frz.dev/docs/Languages/JavaScript/index|JavaScript]]
+
+
+---
 ### Projects
-#### [SkyScrapers](frz.dev/docs/Projects/SkyScrapers/index)
+#### [[frz.dev/docs/Projects/Game Developer/index]]
+#### [[frz.dev/docs/Projects/SkyScrapers/index|SkyScrapers]]
+
 
 ---
 ### Generated from [obsidian-publish-mkdocs](https://github.com/jobindj/obsidian-publish-mkdocs)
