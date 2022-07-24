@@ -1,5 +1,9 @@
-site_name: frz.dev
+site_name: frz.dev - My Software Engineer Second Brain
+repo_name: liamfrazer/frz.dev
 repo_url: https://github.com/liamfrazer/frz.dev
+site_author: Liam Frazer
+site_description: >-
+  An automated second brain/digital garden workflow solution combined with obsidian>mkdocs-material>github>hostinger
 
 theme:
     features:
