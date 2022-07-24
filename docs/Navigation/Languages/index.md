@@ -5,6 +5,3 @@
 ---
 ### [[JavaScript]]
 
-
----
-## References

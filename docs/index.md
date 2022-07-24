@@ -1,9 +1,8 @@
 # Navigation
 
 ## Categories
-
-### Courses
 ---
+### Courses
 ### [[Zero to Mastery - Learning to Learn]]
 
 
