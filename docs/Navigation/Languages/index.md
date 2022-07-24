@@ -3,4 +3,4 @@
 
 ## Map of Content
 ---
-### [[JavaScript]]
+[[JavaScript]]

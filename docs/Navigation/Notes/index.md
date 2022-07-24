@@ -3,4 +3,4 @@
 
 ## Map of Content
 ---
-### [[Game Developer]]
+[[Game Developer]]
