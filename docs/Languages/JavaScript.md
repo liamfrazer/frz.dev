@@ -1,9 +1,9 @@
 202207241535
 Status: #MOC
-Tags: #language
+Tags: #languages
 
 # JavaScript
-## Map of Content for JavaScript
+## Map of Content
 ---
 
 

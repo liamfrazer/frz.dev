@@ -3,7 +3,7 @@ Status: #MOC
 Tags: #course
 
 # Zero to Mastery - Learning to Learn
-## Map of Content for Zero to Mastery - Learning to Learn
+## Map of Content
 ---
 ### Introduction
 
@@ -37,5 +37,3 @@ ___
 ## References
 https://zerotomastery.io/courses/learning-how-to-learn/
 https://zerotomastery.io/courses/learning-how-to-learn/#Curriculum
-
-[[index]]

@@ -1,14 +1,14 @@
-# frz.dev - Main Map of Content
+# Navigation
 
 
-## Map of Content for Courses
+## Courses
 ---
-
-* ### [[Zero to Mastery - Learning to Learn]]
-* 
-
+### [[Zero to Mastery - Learning to Learn]]
 
 
 ---
-## References
-https://zerotomastery.io/courses/learning-how-to-learn/
+## Languages
+### [[JavaScript]]
+
+
+
