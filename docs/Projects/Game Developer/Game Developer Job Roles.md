@@ -44,4 +44,3 @@ QA
 ## References
 [https://www.youtube.com/watch?v=aWr95b6e73I](https://www.youtube.com/watch?v=aWr95b6e73I)
 
-[[Game Developer]]
