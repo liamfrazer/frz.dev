@@ -1,9 +1,11 @@
-202207241535
-Status: #MOC
-Tags: #languages
+---
+title: {{title}}
+description: Map of content for {{title}}
+tags:
+	- Languages
+	- JavaScript
+---
 
-# JavaScript
-## Map of Content
 ---
 
 

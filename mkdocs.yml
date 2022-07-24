@@ -1,6 +1,7 @@
 site_name: frz.dev - My Software Engineer Second Brain
 repo_name: liamfrazer/frz.dev
 repo_url: https://github.com/liamfrazer/frz.dev
+edit_uri: edit/main/docs
 site_author: Liam Frazer
 site_description: >-
   An automated second brain/digital garden workflow solution combined with obsidian>mkdocs-material>github>hostinger
@@ -52,6 +53,8 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - meta
+  - tags
 
   - toc:
       permalink: true
