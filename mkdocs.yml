@@ -82,3 +82,5 @@ nav:
     - Navigation/Courses/index.md
   - Languages:
     - Navigation/Languages/index.md
+  - Notes:
+    - Navigation/Notes/index.md
