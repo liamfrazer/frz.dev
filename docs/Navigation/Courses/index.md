@@ -6,7 +6,3 @@
 ### [[Zero to Mastery - Learning to Learn]]
 
 
----
-## References
-[https://zerotomastery.io](https://zerotomastery.io)
-

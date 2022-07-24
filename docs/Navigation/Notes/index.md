@@ -4,7 +4,3 @@
 ## Map of Content
 ---
 ### [[Game Developer]]
-
-
----
-## References
