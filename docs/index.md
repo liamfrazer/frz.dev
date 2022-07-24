@@ -2,23 +2,24 @@
 ## frz.dev - Obsidian Notes Static Site
 ---
 ### Courses
-#### [[frz.dev/docs/Courses/Complete Node.js Developer/index|Complete Node.js Developer]]
-#### [[frz.dev/docs/Courses/Learning to Learn/index|Learning to Learn]]
+#### Complete Node.js Developer
+#### Learning to Learn
+
 
 ---
 ### Frameworks
-#### [[frz.dev/docs/Frameworks/Node.js/index|Node.js]]
+#### Node.JS
 
 
 ---
 ### Languages
-#### [[frz.dev/docs/Languages/JavaScript/index|JavaScript]]
+#### JavaScript
 
 
 ---
 ### Projects
-#### [[frz.dev/docs/Projects/Game Developer/index]]
-#### [[frz.dev/docs/Projects/SkyScrapers/index|SkyScrapers]]
+#### Game Developer
+#### SkyScrapers
 
 
 ---
