@@ -76,13 +76,13 @@ extra:
       link: https://github.com/liamfrazer
       name: liamfrazer on GitHub
 
-nav:
-  - Home: index.md
-  - Courses:
-    - Navigation/Courses/index.md
-  - Frameworks:
-    - Navigation/Frameworks/index.md
-  - Languages:
-    - Navigation/Languages/index.md
-  - Notes:
-    - Navigation/Notes/index.md
+# nav:
+#   - Home: index.md
+#   - Courses:
+#     - Navigation/Courses/index.md
+#   - Frameworks:
+#     - Navigation/Frameworks/index.md
+#   - Languages:
+#     - Navigation/Languages/index.md
+#   - Notes:
+#     - Navigation/Notes/index.md
