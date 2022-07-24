@@ -3,7 +3,7 @@
 
 ## Map of Content
 ---
-### [[Game Developer Job Roles]]
+* [[Game Developer Job Roles]]
 
 
 ---

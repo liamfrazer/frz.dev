@@ -18,7 +18,7 @@
 
 
 ---
-### Notes
+### Projects
 * [[Game Developer]]
 
 
