@@ -13,6 +13,7 @@ theme:
       - toc.follow
       - navigation.top
       - navigation.indexes
+      - toc.integrate
     name: 'material'
     palette:
 
@@ -76,7 +77,7 @@ nav:
   - Home: index.md
   - Courses:
     - Courses/index.md
-    - Zero to Mastery - Learning to Learn: Zero to Mastery - Learning to Learn.md
+    - Zero to Mastery - Learning to Learn: Languages/Zero to Mastery - Learning to Learn.md
   - Languages:
     - Languages/index.md
-    - JavaScript: JavaScript.md
+    - JavaScript: Languages/JavaScript.md
