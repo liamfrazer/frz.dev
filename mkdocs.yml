@@ -7,14 +7,6 @@ site_description: >-
   An automated second brain/digital garden workflow solution combined with obsidian>mkdocs-material>github>hostinger
 
 theme:
-    features:
-      - navigation.instant
-      - navigation.tabs
-      - navigation.sections
-      - toc.integrate
-      - toc.follow
-      - navigation.top
-      - navigation.indexes
     name: 'material'
     palette:
 
@@ -30,7 +22,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
+      primary: pink
       accent: blue
       toggle:
         icon: material/toggle-switch
@@ -54,7 +46,6 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
 
-
   - toc:
       permalink: true
 
@@ -62,27 +53,9 @@ plugins:
   - search
   - roamlinks 
   - mermaid2
-  - tags
 
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js 
-
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/liamfrazer
-      name: liamfrazer on GitHub
-
-# nav:
-#   - Home: index.md
-#   - Courses:
-#     - Navigation/Courses/index.md
-#   - Frameworks:
-#     - Navigation/Frameworks/index.md
-#   - Languages:
-#     - Navigation/Languages/index.md
-#   - Notes:
-#     - Navigation/Notes/index.md
