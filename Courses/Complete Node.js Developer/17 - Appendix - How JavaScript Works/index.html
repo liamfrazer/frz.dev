@@ -284,6 +284,16 @@
   </a>
 </li>
 <li class="md-nav__item">
+<a class="md-nav__link" href="#jit-compiler">
+    JIT Compiler
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#inside-the-v8-engine">
+    Inside the V8 Engine
+  </a>
+</li>
+<li class="md-nav__item">
 <a class="md-nav__link" href="#references">
     References
   </a>
@@ -552,6 +562,16 @@
   </a>
 </li>
 <li class="md-nav__item">
+<a class="md-nav__link" href="#jit-compiler">
+    JIT Compiler
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#inside-the-v8-engine">
+    Inside the V8 Engine
+  </a>
+</li>
+<li class="md-nav__item">
 <a class="md-nav__link" href="#references">
     References
   </a>
@@ -589,6 +609,10 @@
 <li>Translate and read the files</li>
 <li>The translation happens line by line on the fly</li>
 <li>Taking a set of instructions and return an answer with that code</li>
+<li>Quick to get up and running, no conversion to another language and no extra steps</li>
+<li>Interpreters are a natural fit for JavaScript as originally created for the browser</li>
+<li>Running a lot of JavaScript will get slower &amp; slower</li>
+<li>If in a loop, it can get really really slow, this is where the compiler helps</li>
 </ul>
 <h2 id="compiler">Compiler<a class="headerlink" href="#compiler" title="Permanent link">¶</a></h2>
 <ul>
@@ -598,6 +622,16 @@
 <li>Takes the program &gt; writes a program in a new language</li>
 <li>The language it spits out, if we interpt it, it's going to create the same results as the Interpreter</li>
 <li>The compiler understands what we want to do, to take it into something else such as a lower level language</li>
+<li>Compiler takes a little bit of extra time to review code &amp; spit out into another language</li>
+<li>If the compiler sees loops, it can actually simplify the code and replace the function with a value as an example</li>
+<li>Compilers optimise the code</li>
+</ul>
+<h2 id="jit-compiler">JIT Compiler<a class="headerlink" href="#jit-compiler" title="Permanent link">¶</a></h2>
+<ul>
+<li>Combination of a Interpreter &amp; Compiler</li>
+</ul>
+<h2 id="inside-the-v8-engine">Inside the V8 Engine<a class="headerlink" href="#inside-the-v8-engine" title="Permanent link">¶</a></h2>
+<ul>
 <li></li>
 </ul>
 <hr/>
