@@ -2,8 +2,8 @@
 ## Obsidian Notes Static Site
 ---
 ### Courses
-#### Complete Node.js Developer
-#### Learning to Learn
+#### [[Complete Node.js Developer]]
+#### [[Learning to Learn]]
 
 
 ---
@@ -12,18 +12,18 @@
 
 ---
 ### Runtimes
-#### Node.JS
+#### [[Node.js]]
 
 
 ---
 ### Languages
-#### JavaScript
+#### [[JavaScript]]
 
 
 ---
 ### Projects
-#### Game Developer
-#### SkyScrapers
+#### [[Game Developer]]
+#### [[Skyscrapers]]
 
 
 ---
