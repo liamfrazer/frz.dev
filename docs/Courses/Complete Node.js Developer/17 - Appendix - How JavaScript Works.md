@@ -10,6 +10,8 @@
 * JavaScript file > Parser > AST > Interpreter >
 * If everyone created their own JavaScript engine, it would be chaos
 * ECMAScript was created to set standards
+
+## Interpreter & Compiler
 * 
 
 
