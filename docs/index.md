@@ -1,5 +1,5 @@
 # Home
-## frz.dev - Obsidian Notes Static Site
+## Obsidian Notes Static Site
 ---
 ### Courses
 #### Complete Node.js Developer
@@ -8,6 +8,10 @@
 
 ---
 ### Frameworks
+
+
+---
+### Runtimes
 #### Node.JS
 
 
