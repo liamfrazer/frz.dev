@@ -1,5 +1,5 @@
 # Overview
-[[frz.dev/docs/Courses/Complete Node.js Developer/01 - Introduction]]
+[[01 - Complete Node.js Developer Introduction]]
 
 [[02 - Node.js Fundamentals - Foundations and Environment Setup]]
 
