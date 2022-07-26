@@ -2,6 +2,7 @@
 ## Obsidian Notes Static Site
 ---
 ### Courses
+#### [[Complete Web Developer]]
 #### [[Complete Node.js Developer]]
 #### [[Learning to Learn]]
 
@@ -16,7 +17,9 @@
 
 
 ---
-### Languages
+### Languages & Frameworks
+#### [[HTML]]
+#### [[CSS]]
 #### [[JavaScript]]
 
 
