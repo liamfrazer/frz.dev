@@ -16,4 +16,4 @@
 
 [[CWD - CSS]]
 
-[[CWD - Bootstrap]]
+[[CWD - Basic JavaScript]]
